@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-section {
+    background-color: white;
+    height: 30vh;
+    background-size: cover;
+}
+
+.top_image {
+    margin-left: 10px;
+    height: 120px;
+    width: 200px;
+}
+
+.top-heading {
+    text-align: center;
+    color: orange;
+    font-family: "Roboto";
+    font-size: 30px;
+    padding: 20px;
+    font-weight: 900;
+}
+
+.bottom-section {
+    background-color: #e6f6ff;
+    text-align: center;
+    padding: 15px;
+    margin-top: 10vh;
+}
+
+.card {
+    text-align: center;
+    background-color: black;
+    width: 200px;
+    border-radius: 13px;
+    margin: 10px;
+}
+
+.ipl-card-image {
+    height: 70px;
+    width: 70px;
+    margin-left: 65px;
+    margin-top: 13px;
+}
+
+.ipl-heading-name {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+
+.ipl-tem-list {
+    font-family: 'Roboto';
+    font-size: 12px;
+    margin-bottom: 5px;
+}
